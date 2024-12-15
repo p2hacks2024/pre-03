@@ -7,7 +7,6 @@
 ## プロダクト名  
 ぴこるー
 
-[画像]
 ![image](https://github.com/user-attachments/assets/7ca9e452-43c4-41b1-934e-5c6f03d1d12f)
 ![image](https://github.com/user-attachments/assets/764b978a-7577-4c89-a233-cbaaa6b17c70)
 
@@ -36,7 +35,6 @@
 
 ### スクリーンショット  
 
-[画像]
 ![image](https://github.com/user-attachments/assets/dbe8383f-6c11-4c79-b673-f31aed099cf1)
 ![image](https://github.com/user-attachments/assets/4d627b49-2a69-4490-84e5-791a10ab8386)
 ![image](https://github.com/user-attachments/assets/26a5e22d-2354-47a3-92a4-3ea187c5196c)
